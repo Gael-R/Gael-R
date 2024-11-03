@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Gael <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-
+<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/xBpdA8V62NNb6pkHBA/giphy.gif?cid=ecf05e47hk9el542nso7w6s7oqnpp0ekvnkjqw8grcmlim17&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
