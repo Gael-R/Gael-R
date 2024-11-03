@@ -41,7 +41,12 @@ I am a university student of Business Informatics at the University of Costa Ric
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
+[![](https://github-readme-stats.vercel.app/api?username=Gael-R&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Elanza-48)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Gael-R&theme=material-palenight)](https://github.com/Elanza-48)
+</div>
 <!--
 **Gael-R/Gael-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
